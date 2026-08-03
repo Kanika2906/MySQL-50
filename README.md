@@ -6,5 +6,6 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Kanika2906/MySQL-50/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/MySQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
