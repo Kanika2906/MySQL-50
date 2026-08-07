@@ -17,6 +17,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Kanika2906/MySQL-50/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
