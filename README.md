@@ -13,4 +13,28 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kanika2906/MySQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Kanika2906/MySQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/MySQL-50/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanika2906/MySQL-50/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
