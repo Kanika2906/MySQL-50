@@ -13,16 +13,4 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kanika2906/MySQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Kanika2906/MySQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/MySQL-50/tree/master/1757-recyclable-and-low-fat-products) |
-## Array
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Kanika2906/MySQL-50/tree/master/0053-maximum-subarray) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Kanika2906/MySQL-50/tree/master/0053-maximum-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Kanika2906/MySQL-50/tree/master/0053-maximum-subarray) |
-<!---LeetCode Topics End-->
+
