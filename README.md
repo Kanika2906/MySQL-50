@@ -14,17 +14,6 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kanika2906/MySQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Kanika2906/MySQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/MySQL-50/tree/master/1757-recyclable-and-low-fat-products) |
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Kanika2906/MySQL-50/tree/master/0015-3sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Kanika2906/MySQL-50/tree/master/0015-3sum) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Kanika2906/MySQL-50/tree/master/0015-3sum) |
+
 <!---LeetCode Topics End-->
 
