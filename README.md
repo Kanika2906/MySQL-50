@@ -15,22 +15,6 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kanika2906/MySQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Kanika2906/MySQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/MySQL-50/tree/master/1757-recyclable-and-low-fat-products) |
-## String
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/MySQL-50/tree/master/0387-first-unique-character-in-a-string) |
-| [0709-to-lower-case](https://github.com/Kanika2906/MySQL-50/tree/master/0709-to-lower-case) |
-## Hash Table
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/MySQL-50/tree/master/0387-first-unique-character-in-a-string) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/MySQL-50/tree/master/0387-first-unique-character-in-a-string) |
-## Counting
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/MySQL-50/tree/master/0387-first-unique-character-in-a-string) |
+
 <!---LeetCode Topics End-->
 
