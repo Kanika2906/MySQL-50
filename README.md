@@ -23,6 +23,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,5 +32,10 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0102-binary-tree-level-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
 
