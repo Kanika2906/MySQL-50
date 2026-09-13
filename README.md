@@ -27,6 +27,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,5 +53,9 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 
