@@ -26,6 +26,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0110-balanced-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -34,6 +35,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [0094-binary-tree-inorder-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0110-balanced-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -42,6 +44,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0110-balanced-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -56,6 +59,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 
