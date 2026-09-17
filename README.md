@@ -19,6 +19,7 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kanika2906/MySQL-50/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kanika2906/MySQL-50/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
@@ -61,5 +62,13 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kanika2906/MySQL-50/tree/master/0701-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kanika2906/MySQL-50/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kanika2906/MySQL-50/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
 
