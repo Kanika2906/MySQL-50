@@ -71,5 +71,13 @@ A collection of solutions to 50 SQL problems designed to strengthen SQL fundamen
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kanika2906/MySQL-50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/Kanika2906/MySQL-50/tree/master/0728-self-dividing-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kanika2906/MySQL-50/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kanika2906/MySQL-50/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
 
